@@ -1,0 +1,104 @@
+{
+    "books": [
+        {
+            "title": "Garden Design and Landscaping",
+            "image": "http://loremipsum.themerex.net/wp-content/uploads/2016/06/product-2.jpg",
+            "author": "Rusell Reynolds",
+            "price": 10.44,
+            "description": "Are you just starting out with landscaping your garden? If you are wondering if you should hire a professional landscaper or DIY design it, but aren't sure which option is best, this book will help you. This book will give you an overview of the landscaping processes, from what you need to learn in order to successfully DIY design your garden, to what to look for when hiring professional landscapers and designers to help you. Please note: This book is an overview of the processes involved with successfully landscaping a garden, not a step-by-step 'how-to' guide (see Rachel's other books for that).",
+            "categories": [
+                "Arts & Photography", 
+                "Audible",
+                "Food & Wine"
+            ]
+        },
+        {
+            "title": "How To Be An Explorer of The World",
+            "image": "http://loremipsum.themerex.net/wp-content/uploads/2016/07/product-10.jpg",
+            "author": "Diane Washington",
+            "price": 13.50,
+            "description": "From the internationally bestselling creator of Wreck This Journal, an interactive guide for exploring and documenting the art and science of everyday life. Artists and scientists analyze the world around them in surprisingly similar ways, by observing, collecting, documenting, analyzing, and comparing. In this captivating guided journal, readers are encouraged to explore their world as both artists and scientists.",
+            "categories": [
+                "Arts & Photography", 
+                "Audible",
+                "Cookbooks", 
+                "Food & Wine", 
+                "History", 
+                "Romance", 
+                "Sci-Fi & Fantasy", 
+                "Teens & Young Adult",
+                "Textbooks"
+            ]
+        },
+        {
+            "title": "The Designer's Cookbook: 12 Colors, 12 Menus",
+            "image": "http://loremipsum.themerex.net/wp-content/uploads/2016/07/product-4.jpg",
+            "author": "Byron Kelly",
+            "price": 10.45,
+            "description": "In these pages, Richard Russo returns to North Bath, the Rust Belt town first brought to unforgettable life in Nobody’s Fool. Now, ten years later, Doug Raymer has become the chief of police and is tormented by the improbable death of his wife—not to mention his suspicion that he was a failure of a husband. Meanwhile, the irrepressible Sully has come into a small fortune, but is suddenly faced with a VA cardiologist’s estimate that he only has a year or two left to live.",
+            "categories": [
+                "Arts & Photography", 
+                "Cookbooks", 
+                "Food & Wine", 
+                "History"
+            ]
+        },
+        {
+            "title": "Everybody's Fool: A novel",
+            "image": "http://loremipsum.themerex.net/wp-content/uploads/2016/07/product-5.jpg",
+            "author": "Byron Kelly",
+            "price": 9.00,
+            "description": "Enjoy this bestselling sweet romance by Cami Checketts. Single mom, Haley Turnbow, escapes to the tropical Isla del Sol for an ideal vacation with her five-year old. She's planning on lazy beach days, great food, and a happy kid. She doesn't plan on the resident hotel ghost stalking her and the island's fine-looking owner drawing her in with his confident, fun personality.",
+            "categories": [
+                "Audible",
+                "Food & Wine", 
+                "History", 
+                "Romance", 
+                "Teens & Young Adult",
+                "Textbooks"
+            ]
+        },
+        {
+            "title": "Everyone brave is forgiven",
+            "image": "http://loremipsum.themerex.net/wp-content/uploads/2016/07/product-6.jpg",
+            "author": "Stepnahie Moreno",
+            "price": 21.90,
+            "description": "The instant New York Times bestseller from Chris Cleave—the unforgettable novel about three lives entangled during World War II, told “with dazzling prose, sharp English wit, and compassion…a powerful portrait of war’s effects on those who fight and those left behind” (People, Book of the Week).",
+            "categories": [
+                "Audible",
+                "History", 
+                "Romance", 
+                "Teens & Young Adult",
+                "Textbooks"
+            ]
+        },
+        {
+            "title": "The independent one: A billionaire bride pact romance",
+            "image": "http://loremipsum.themerex.net/wp-content/uploads/2016/07/product-8.jpg",
+            "author": "Katherine Spencer",
+            "price": 12.50,
+            "description": "Enjoy this bestselling sweet romance by Cami Checketts. Single mom, Haley Turnbow, escapes to the tropical Isla del Sol for an ideal vacation with her five-year old. She's planning on lazy beach days, great food, and a happy kid. She doesn't plan on the resident hotel ghost stalking her and the island's fine-looking owner drawing her in with his confident, fun personality.",
+            "categories": [
+                "Audible",
+                "History", 
+                "Sci-Fi & Fantasy", 
+                "Teens & Young Adult",
+                "Textbooks"
+            ]
+        },
+        {
+            "title": "The Future of Architecture in 100 Buildings",
+            "image": "http://loremipsum.themerex.net/wp-content/uploads/2016/07/product-11.jpg",
+            "author": "Gwendolyn Baker",
+            "price": 12.50,
+            "description": "A pavilion made from paper. A building that eats smog. An inflatable concert hall. A research lab that can walk through snow. We’re entering a new age in architecture—one where we expect our buildings to deliver far more than just shelter. We want buildings that inspire us while helping the environment; buildings that delight our senses while serving the needs of a community; buildings made possible both by new technology and repurposed materials.",
+            "categories": [
+                "Audible",
+                "History", 
+                "Sci-Fi & Fantasy", 
+                "Teens & Young Adult",
+                "Textbooks"
+            ]
+        }
+    ]
+}
